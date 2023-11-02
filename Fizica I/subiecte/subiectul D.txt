@@ -1,0 +1,7 @@
+Subiectul D la fizic:
+1.Unda mecanica.Ecuatia undei
+2.Formula ce exprima principiul 1 al termodinamici
+3.Masina termica.Randamentul
+4.Fluxul liniilor campului electric.Teorema lui Gauss din electrostatica
+5.Inductia electromagnetica.Formula pt tensiunea electromotoare
+6.Efectul fotoelastic.Formula lui Einstain.

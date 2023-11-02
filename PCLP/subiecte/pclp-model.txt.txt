@@ -1,0 +1,70 @@
+Problema 1
+Unitatea de informatie este: (bit,byte) -> grila
+
+Problema 2
+Compilatorul=.....(definitia compilatorului);
+
+Problema 3
+int e=1, f=5, g;
+g=--f+3-e++
+
+Care este valoarea lui g?
+
+Problema 4
+Pe cati octeti se va afisa mesajul: "George Enescu!";
+
+Problema 5
+Ce se va afisa dupa executarea secventei urmatoare?
+char car;
+int n;
+scanf("%d%d",&car,&n);
+printf("raft=%03d,sectiunea=%2c",n,car);
+
+Problema 6
+Ce se va afisa dupa executarea secventei urmatoare?
+
+#define max=4;
+void main()
+{int i,j,Note[Max];
+ for(i=0;i<max;i++)
+ Note[i]=3*i-1;
+ for(j=0;j<max;j++)
+ rrintf(“%d\t”,note[j]);
+}
+
+Problema 7
+Ce se va afisa dupa executarea secventei urmatoare?
+
+int a ;
+Scanf(‘%d’,&a) ;
+Printf(‘%d’,a<<3) ;
+
+Problema 8
+Pt ce valoare a lui val se va afisa galben?
+
+If(val<11)
+If(val>-13) printf(‘alb’) ;
+Else printf(‘portocaliu’) ;
+Else printf(‘galben’);
+
+Problema 9
+De cate ori se repeta bucla?
+
+Int contor=-3;
+While(cont<2)
+  {++contor ;
+       If( !contor)
+        Break ;
+Printf(‘%d\t’,contor) ;
+
+Problema 10
+Se da un sir. Sa se calculeze suma elementelor divizibile cu 9, dar care nu sunt divizibile cu 7
+
+Problema 11
+Se dau:
+Void citire(int n, int a[])
+Void afisare(int n, int a)
+
+Se cer :
+suma()
+Void main()

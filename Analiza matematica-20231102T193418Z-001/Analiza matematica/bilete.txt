@@ -1,0 +1,115 @@
+Biletul 1:
+1.Teorema de punct fix a lui Bannach
+2.Calculati natura seriei : ? n=0 din un, un= 2* n la (n+5) / (3n+1)*n
+3.F’’xy=? F(x,y)=xy+ x* f (y/x)
+	
+Biletu 3:
+1. Multimi.Supremumum.Infimumum
+2. o serie in care se folosea criteriul radacinii si iesea direct.
+3. punctele de extrem unde se foloseste teorema lui silvester.punctul m avea coordonatele m(1/2,1,1) 
+
+Biletul 4:
+1.Teorema-Criteriul Abel-Dirichlet. 
+2.F(x,y)=x*f(2x-yla patrat)+y*g(2x-ylapatrat) F'in raport cu x si y si in xy 
+3.f(x,y,z)=xla patrat+yla patrat+zla patrat-x*y+x-2z extremele functiei
+
+Bilet 5
+1.Crieteriul de comparatie 1 2 si 3
+
+Bilet 8
+1.Serii de puteri
+2.Suma cand n mai mare sau egal cu 0 din (3 la n)/[(1-3) la puterea (n+1)]*(1+3)^(n+2)
+3.Derivate de ordin 2 pentru
+  F(x,y,z)=ln(x^y*y^z*z^x) x,y,z>0
+
+Bilet 10
+1.Teorema unui punct fix
+2.Sa se afle natura seriei
+  [sh(n)-sh(n^2O)]/radical din n^2
+3.Sa se calculeze derivata de ordin n si derivata a doua in raport cu xy pentru functia
+  F(x,y)=(x+y^2,x * y^2)
+
+Bilet 11
+1.Functii continue in spatiu metric
+2.Sa se dezvolte in serii de puteri F(x)=1/radical din(1-x^2); modul din x<1
+3.Sa se calculeze diferentiala pentru (2,1)
+ dF=x^2+f(x+1/y)
+
+Bilet 13
+1.Formula lui Taylor
+2.Natura seriei Suma cand n>=0 din a la puterea radical din n, a>0
+3.Calculati F"xy stiind ca: F(x,y)=x^2*y+y*f(y^2-2x)
+
+Biletul 14:
+1.Derivabilitatea functiilor de o variabila. Derivate de ordin superior.
+2.Calculate suma: ?_(n=1)¦1/(n!+(n-1)!)
+3. x si y sunt unghiuri intr-un triunghi
+sinx+siny+cos(x+y)= 3/2
+
+Biletul 15:
+1.Derivate compuse
+2.Dezvoltati suma seriei ?1/ n(n+1)(n+2)(n+3)
+3.Dezvoltati seria de puteri ale lui x: f(x)= ln(x+v1+x la patrat) 
+
+Biletul 17
+1.Diferentiale: def, unicitate;
+2.Daca x si y sunt intr-un triunghi sin patrat *x + sin patrat * y + sin patrat * (x+y) = 9/4
+3.Sa se calculeze natura seriei :
+? cand n=1 din (-1) la n-1 * 10 la (n-1 ) + 10 la (n-2) + … + 10 *a +a / 10 la n cand a >0
+
+Biletul 18:
+1.Derivate partiale pt functii de n variabile.Definiti derivatele partiale de ordinul 1si2
+2. f derivat de n ori de x, unde f(x)=x/(a*a-x*x)
+3. Suma seriei ? 1/(an+b) la puterea a
+
+Biletul 19:
+1.Siruri de functii uniform convergente. Proprietati
+2.Calculati natura seriei: 
+? n=0 din un, un=( n la 2 -5n+1 / n la 2-4n+2 ) la n patrat
+3.Ecuatia x*lny + y*lnz +z*lnx=3, x>0, y>0, z>0
+Definiti implicit functia z= z(x,y) . calculati z’x=? si z’y=?
+	
+Biletul 21
+1.Serii de puteri
+2. Seria de numere : ? cand n = 0 din 3 la n pe 1- 3 la n+1 pe langa 1 + 3 n+2
+3. Derivatele partiale de ordinul 2 pt: 
+f(x,y,z)=ln(x la y * y la z * z la x) x>0,y>0,z>0;
+
+Biletul 23:
+1.spatii metrice. spatiul euclidian R la puterea n.
+2.sa se dezvolte in serii de puteri functia sin3x*sin 2x
+3.sa se stiudieze natura seriei (nu mai tin minte seria)
+dar trebuie aplicat criteriul raportului si si ii pe cazuri
+cand l=1 criteriul este ineficient si se aplica criteriul rabe duhamel
+
+Biletul 24:
+1.Se da o functie F(……) calculati z’(y) =? Si z’(x)=?
+2.Dezvoltati suma seriei: ?n(n-1)* x la n
+3.Formula lui Taylor
+
+Bilet 25
+1.Abel-Dirichlet
+2.S(x)=f(1/x,e^(2*x)) calculati f secund de x
+3.Dezvoltati in serie de puteri si raza (n+1)^2 suma: suma cand n>0 din (n+1)^2 * x^n; modul din x<1
+
+Biletul 27:
+1.Teorema de derivate a functiilor compuse.
+2.Natura seriei ? n>- Un unde Un=1*3*.....*(2n-1)supra 2*5*......*(3n-1)
+3.Ecuatia ln radical din x la patrat+y la patrat=arctg de y supra x.
+defineste implicit functia y=y(x)
+
+Biletul 28:
+1.Serii de nr reale : def.crit lu Cauchy, serii alternante
+2.Dezvoltati in serii de puteri : ln (1-x/1+x)
+3.F(x+y, y-z, z-x) z=z(x)
+Calculati z’(y) =? Si z’(x)=?
+
+Biletul 29:
+1. Teorema lui Schwarz
+2. Sa se inscrie in elipsa (x la 2) + (y la 2)/4 -1=0 un dreptunghi de arie maxima.
+3. Suma seriei : ? 1 / [4*(n la 2) -1] 
+
+Biletul 30:
+1.Sserii de functii
+2.Suma seriei: ? n+2 / n!+(n+1)!+(n+2)!
+3. F"(x)=? cand F(x)=f(sinx, lnx)

@@ -1,0 +1,18 @@
+Danyel: teoremele lui kirchhoff...........................................               doc6   pag 9
+Danyel: teorema conservari puterilor asta o da sigur......................               doc6_2 pag 7
+Danyel: teorema transferului maxim de putere si asta o da sigur...........               doc6_2 pag 4
+Danyel: teorema generatorului echivalent de tensiune......................               doc6_2 pag 1
+Danyel: teorema generatorului echivalent de curent........................               doc6_2 pag 2
+Danyel: puteri in regim sinusoidal si asta o da sigur....................                doc3   pag 2
+Danyel: puterea activa....................................................               doc3   pag 4
+Danyel: puterea aparenta.factor de putere.................................               doc3   pag 5
+Danyel: puterea reactiva..................................................               doc3   pag 7
+Danyel: puterea complexa..................................................               doc3   pag 9
+Danyel: teorema liniare sub forma complexa (tot)              
+Danyel: imbunatatirea factorului de putere o da sigur.....................               doc6_2 pag 14
+Danyel: impedanta echivalenta a unei conexiuni serie......................   X           doc4   pag 6
+Danyel: Impedanta echivalenta a unei conexiuni paralel in absenta cuplajului inductiv    doc4   pag 9
+Danyel: Impedanta echivalenta a circuitelor cuplate inductiv..............x              doc4   pag 14
+Danyel: Transferul de putere in circuite cuplate inductiv144
+Danyel: Rezonanta serie...................................................               doc5   pag 1
+Danyel: rezonanta paralel.................................................    /          doc5   pag 5
